@@ -10,7 +10,7 @@ Disclamer: This script may not work on every GNU/Linux distro. Sorry.
 
 First of all, download the main script:
 ```
-wget http://git.io/vs4UH -O swap
+wget https://git.io/vPMOE -O swap
 ```
 
 Then simply run the file with this format:
